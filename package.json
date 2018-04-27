@@ -46,6 +46,6 @@
     "lib/index.d.ts"
   ],
   "dependencies": {
-    "snabbdom-selector": "^2.0.1"
+    "snabbdom-selector": "^3.0.0"
   }
 }
