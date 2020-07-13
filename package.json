@@ -43,7 +43,7 @@
   "homepage": "https://github.com/mightyiam/snabbdom-decontextify#readme",
   "devDependencies": {
     "@commitlint/cli": "8.3.5",
-    "@commitlint/travis-cli": "8.3.5",
+    "@commitlint/travis-cli": "9.1.1",
     "@typescript-eslint/eslint-plugin": "3.6.0",
     "ava": "3.10.1",
     "crazy-commits": "1.0.4",
